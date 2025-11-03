@@ -1,1 +1,4 @@
-print("hello world")
+def greet():
+    return "こんにちは"
+
+print(greet())
