@@ -1,4 +1,4 @@
-def print_name(name):
-    return name
+def get_greet():
+    return "おはようございます"
 
-print(f"私の名前は{print_name("yuki")}です")
+print(get_greet())
